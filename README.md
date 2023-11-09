@@ -1,4 +1,4 @@
-# Professioanl Read me
+# Professional README.md Generator
     #### ReadMeGenerator© 2020 All Rights Reserved.  MIT All material must be cited or credited, when using material (free to use).
     
     ## Table of Contents
@@ -11,7 +11,7 @@
     
     # Repository Description
     ###### [Back to Table of Contents](#Table-of-Contents)
-    osidfjoidsjfoisdfjuiodhbniu gniosugosdugjvdfoslvjfbvoluidgbipfughb[sdigjdfn
+    Sometimes, we dont have time to create a professional README.md from scratch, or even coping over a premade template can be difficult. I was tasked to create a Professional README.md Generator from my MSU Coding Bootcamp, and that is something I had completed.
     
     Remember this also, as a developer, your goal should be designing NEW experiences that makes people's lives simple; because as developers, we solve problems that people didn't even knew they had- even better, in a way that they do not understand: We are the super heroes and heriones of tomorrow; so get coding, and I hope this repository helps you along your development. - [Frederick Thomas](https://www.linkedin.com/in/discoverfrederickthomas/), Super Coding Ninja™
     
@@ -30,39 +30,39 @@
     
     ### Contribution Guidelines
     ###### [Back to Table of Contents](#Table-of-Contents)
-    idufghidfuvnsidjkcnsdkjvbnifugh
+    Others are welcome to contribute
     
     
     ## Test Instructions
     ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  fuighdfiubncjv
-    2.  dfgss
-    3.  fgdertgdsf
+    1.  
+    2.  
+    3.  
     
     
     ## Overview: What We Accomplished!
     ### Workflow [Back to Table of Contents](#Table-of-Contents)
-    sdfdfgfghwuisfbrujruihjrguhirfuhirfguhreuhg
+    struggled with the code, but eventually got it to work
     
     
     ### Screenshots (Building this application)
     ###### [Back to Table of Contents](#Table-of-Contents)
-    #### Demo I createad ![script.js](eruigeruigeruig)
-    
-    #### Demo I createad ![fileGenerator.js](undefined)
-    
-    #### Demo I createad ![ReadMe.md](eruigerigeruigruigherguh)
-    
+    #### Demo I createad ![script.js] https://drive.google.com/file/d/1ciuhTlwykr2Jq8Z1713ylMzaa2Upe3tP/view
+
     
     ## References
     ###### [Back to Table of Contents](#Table-of-Contents)
-    1.  ruigeeruigeruigerugherugh
+    1.  https://github.com/coding-boot-camp/potential-enigma/tree/main/Develop
     
-    2.  ruguhriguiherguiher
+    2.  https://github.com/supercodingninja/ReadMeGenerator
+
+    3.  https://github.com/G303K
+
+    4.  https://github.com/benrodriguezmoran
     
     ## Repositiory End-Goal Criterea
     ###### [Back to Table of Contents](#Table-of-Contents)
-    eruigruigherughrghuisdfiugbdfk gdfuigsberilughoilsfugbolsdfgbertphuigerpg 
+    
     
     ## License
     MIT

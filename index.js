@@ -46,32 +46,12 @@ let questions = [
         name: "contribute"
     },{
         type: "input",
-        message: "Please state any test(s) require (1/3).",
-        name: "test"
-    },{
-        type: "input",
-        message: "Please state any test(s) require(2/3).",
-        name: "test2"
-    },{
-        type: "input",
-        message: "Please state any test(s) require (3/3).",
-        name: "test3",
-    },{
-        type: "input",
         message: "State your accomplishments.",
         name: "accomplish"
     },{
         type: "input",
         message: "Please state provide a screenshot (1 of 3).",
         name: "scriptjs"
-    },{
-        type: "input",
-        message: "Please state provide a screenshot (2 of 3).",
-        name: "generateMarkdown"
-    },{
-        type: "input",
-        message: "Please state provide a screenshot (3 of 3).",
-        name: "ReadMe"
     },{
         type: "input",
         message: "Please supply two references (1/2).",
